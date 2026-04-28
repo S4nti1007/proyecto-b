@@ -10,4 +10,10 @@ holaaaaaaa
 
 ###Este es un directorio nivel 2
 
+Ejemplo de ina seccioóm de codigo
 
+tabla de verdad 
+
+-A | -B | A and B
+---|----|-----------
+v  |  v |     v
